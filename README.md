@@ -1,34 +1,7 @@
-<h1 align="center">Hi 👋, I'm Umair Hashmi</h1>
-<h3 align="center">Flutter & Dart | Firebase</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umaiir11&label=Profile%20views&color=0e75b6&style=flat" alt="umaiir11" /> </p>
-
-- 🔭 I’m currently working on [Lite Layers Ai Wallpapers](https://play.google.com/store/apps/details?id=aisone.portal.abc)
-
-- 🌱 I’m currently learning **Image Detection using Google ML Kit**
-
-- 💬 Ask me about **Anything related to Flutter and Dart**
-
-- 📫 How to reach me **iam.umairimran@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZeBnL0Lc9WqcnDBuujcCpIshkZhGoNse/view?usp=drive_link](https://drive.google.com/file/d/1ZeBnL0Lc9WqcnDBuujcCpIshkZhGoNse/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/umair-hashmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umair-hashmi/" height="30" width="40" /></a>
-<a href="https://instagram.com/umair.hashmiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umair.hashmiii" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umaiir11&show_icons=true&locale=en&layout=compact" alt="umaiir11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umaiir11&show_icons=true&locale=en" alt="umaiir11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umaiir11&" alt="umaiir11" /></p>
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lmgtgu4trfdwegulzo4ccitiea&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
-
-<br/> 
+<h1 align="center">Hi 👋, I'm Umair Hashmi</h1> <h3 align="center">Flutter & Dart Developer | Firebase Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=umaiir11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+🔭 I’m currently working on Lite Layers Ai Wallpapers
+🌱 Learning Image Detection with Google ML Kit
+💬 Ask me about Flutter, Dart, Firebase
+📫 Reach me at iam.umairimran@gmail.com
+📄 View my resume
+<h3 align="center">Connect with me:</h3> <p align="center"> <a href="https://linkedin.com/in/umair-hashmi" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a> <a href="https://instagram.com/umair.hashmiii" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/> </a> </p> <h3 align="center">Languages and Tools:</h3> <p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umaiir11&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=umaiir11&show_icons=true&locale=en" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=umaiir11&" alt="GitHub Streak" /> </p> <div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lmgtgu4trfdwegulzo4ccitiea&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /> </div>
