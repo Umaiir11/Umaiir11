@@ -62,17 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umaiir11&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
 
----
-
-### 🌀 **Cool GitHub Animations**
-<p align="center">
-  <img src="https://github.com/umaiir11/umaiir11/blob/output/github-contribution-grid-snake.svg" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umaiir11&theme=onestar&row=1&column=7&no-bg=true" />
-</p>
-
----
 
 ### 🔗 **Connect with Me**
 <p align="center">
@@ -93,19 +82,6 @@
 <p align="center">
   <img src="https://github.com/umaiir11/umaiir11/assets/umaiir11/yt-latest-video.svg" />
 </p>
-
----
-
-### 🚀 **Latest GitHub Repositories**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umaiir11&repo=Flutter-Chat-App&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umaiir11&repo=Parking-Management-App&theme=tokyonight" />
-</p>
-
----
-
-### 🌌 **GitHub Skyline**
-[![GitHub Skyline](https://skyline.github.com/umaiir11/2023.svg)](https://skyline.github.com/umaiir11/2023)
 
 ---
 
