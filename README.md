@@ -2,7 +2,7 @@
 <h3 align="center">Flutter & Dart Developer | Android & iOS Expert 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Flutter+%7C+Dart+%7C+Firebase+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!; Flutter+%7C+Dart+%7C+ Firebase+%7C+AI" alt="Typing SVG" />
 </p>
 
 <table align="center">
